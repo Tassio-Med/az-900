@@ -5,9 +5,9 @@ Este manual visa orientá-lo na navegação pelo portal do Azure, na localizaç�
 ## 📌 Roteiro para Explorar o Azure
 
 1. **Acesso ao Portal Azure**
-   Inicie sua sessão em [portal.azure.com](https://portal.azure.com) utilizando suas credenciais Microsoft autorizadas. Você será direcionado ao painel principal, onde poderá visualizar e gerenciar seus recursos e serviços ativos.
+   [Inicie sua sessão](https://portal.azure.com) utilizando suas credenciais Microsoft autorizadas. Você será direcionado ao painel principal, onde poderá visualizar e gerenciar seus recursos e serviços ativos.
 
-2. **Iniciação de Novo Recurso**
+2. **Novo Recurso**
    No menu lateral à esquerda, selecione a opção "Criar um recurso". Esta funcionalidade serve para a adição de novos serviços ao seu ambiente Azure.
 
 3. **Categorias de Serviços**
@@ -30,7 +30,7 @@ Este manual visa orientá-lo na navegação pelo portal do Azure, na localizaç�
 4. **Mecanismo de Busca**
    Para uma localização mais direta, utilize a barra de pesquisa posicionada no topo da página "Criar um recurso". Insira o nome do serviço desejado ou palavras-chave relevantes para uma identificação rápida.
 
-5. **Explorando Filtros e o Azure Marketplace**
+5. **Filtros e Azure Marketplace**
    Após selecionar uma categoria, aproveite os filtros disponíveis, adicionalmente, explore o Azure Marketplace para descobrir soluções oferecidas por parceiros Microsoft.
 
 6. **Configuração de Serviços**
